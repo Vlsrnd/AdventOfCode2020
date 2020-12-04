@@ -8,7 +8,7 @@
 | 01  | Report Repair  | **Complete** | **Complete** |
 | 02  | Password Philosophy | **Complete** | **Complete** |
 | 03  | Toboggan Trajectory | **Complete** | **Complete** |
-| 04  | -------------- | -------- | -------- |
+| 04  | Passport Processing | **Complete** | **Complete** |
 | 05  | -------------- | -------- | -------- |
 | 06  | -------------- | -------- | -------- |
 | 07  | -------------- | -------- | -------- |
