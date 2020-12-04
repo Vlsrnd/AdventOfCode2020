@@ -1,5 +1,5 @@
 'use script';
-//input here data from day-02-data.txt
+//input here data from day-04-data.txt
 const str = ``;
 
 

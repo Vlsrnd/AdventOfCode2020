@@ -1,5 +1,5 @@
 'use strict';
-//input here data from day-02-data.txt
+//input here data from day-03-data.txt
 let str = ``;
 
 const arr = str.split('\n');
