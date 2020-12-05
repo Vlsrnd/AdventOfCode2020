@@ -9,7 +9,7 @@
 | 02  | Password Philosophy | **Complete** | **Complete** |
 | 03  | Toboggan Trajectory | **Complete** | **Complete** |
 | 04  | Passport Processing | **Complete** | **Complete** |
-| 05  | -------------- | -------- | -------- |
+| 05  | Binary Boarding | **Complete** | **Complete** |
 | 06  | -------------- | -------- | -------- |
 | 07  | -------------- | -------- | -------- |
 | 08  | -------------- | -------- | -------- |
