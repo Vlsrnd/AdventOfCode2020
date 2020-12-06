@@ -10,7 +10,7 @@
 | 03  | Toboggan Trajectory | **Complete** | **Complete** |
 | 04  | Passport Processing | **Complete** | **Complete** |
 | 05  | Binary Boarding | **Complete** | **Complete** |
-| 06  | -------------- | -------- | -------- |
+| 06  | Custom Customs | **Complete** | **Complete** |
 | 07  | -------------- | -------- | -------- |
 | 08  | -------------- | -------- | -------- |
 | 09  | -------------- | -------- | -------- |
