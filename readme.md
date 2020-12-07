@@ -11,7 +11,7 @@
 | 04  | Passport Processing | **Complete** | **Complete** |
 | 05  | Binary Boarding | **Complete** | **Complete** |
 | 06  | Custom Customs | **Complete** | **Complete** |
-| 07  | -------------- | -------- | -------- |
+| 07  | Handy Haversacks | **Complete** | **Complete** |
 | 08  | -------------- | -------- | -------- |
 | 09  | -------------- | -------- | -------- |
 | 10  | -------------- | -------- | -------- |
