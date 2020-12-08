@@ -12,7 +12,7 @@
 | 05  | Binary Boarding | **Complete** | **Complete** |
 | 06  | Custom Customs | **Complete** | **Complete** |
 | 07  | Handy Haversacks | **Complete** | **Complete** |
-| 08  | -------------- | -------- | -------- |
+| 08  | Handheld Halting | **Complete** | **Complete** |
 | 09  | -------------- | -------- | -------- |
 | 10  | -------------- | -------- | -------- |
 | 11  | -------------- | -------- | -------- |
