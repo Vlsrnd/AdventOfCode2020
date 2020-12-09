@@ -13,7 +13,7 @@
 | 06  | Custom Customs | **Complete** | **Complete** |
 | 07  | Handy Haversacks | **Complete** | **Complete** |
 | 08  | Handheld Halting | **Complete** | **Complete** |
-| 09  | -------------- | -------- | -------- |
+| 09  | Encoding Error  | **Complete** | **Complete** |
 | 10  | -------------- | -------- | -------- |
 | 11  | -------------- | -------- | -------- |
 | 12  | -------------- | -------- | -------- |
