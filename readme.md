@@ -14,7 +14,7 @@
 | 07  | Handy Haversacks | **Complete** | **Complete** |
 | 08  | Handheld Halting | **Complete** | **Complete** |
 | 09  | Encoding Error  | **Complete** | **Complete** |
-| 10  | -------------- | -------- | -------- |
+| 10  | Adapter Array | **Complete** | **Complete** |
 | 11  | -------------- | -------- | -------- |
 | 12  | -------------- | -------- | -------- |
 | 13  | -------------- | -------- | -------- |
