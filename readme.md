@@ -15,7 +15,7 @@
 | 08  | Handheld Halting | **Complete** | **Complete** |
 | 09  | Encoding Error  | **Complete** | **Complete** |
 | 10  | Adapter Array | **Complete** | **Complete** |
-| 11  | -------------- | -------- | -------- |
+| 11  | Seating System | **Complete** | **Complete** |
 | 12  | -------------- | -------- | -------- |
 | 13  | -------------- | -------- | -------- |
 | 14  | -------------- | -------- | -------- |
