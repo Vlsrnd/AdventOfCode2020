@@ -16,7 +16,7 @@
 | 09  | Encoding Error  | **Complete** | **Complete** |
 | 10  | Adapter Array | **Complete** | **Complete** |
 | 11  | Seating System | **Complete** | **Complete** |
-| 12  | -------------- | -------- | -------- |
+| 12  | Day 12: Rain Risk | **Complete** | **Complete** |
 | 13  | -------------- | -------- | -------- |
 | 14  | -------------- | -------- | -------- |
 | 15  | -------------- | -------- | -------- |
