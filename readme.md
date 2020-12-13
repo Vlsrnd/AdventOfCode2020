@@ -17,7 +17,7 @@
 | 10  | Adapter Array | **Complete** | **Complete** |
 | 11  | Seating System | **Complete** | **Complete** |
 | 12  | Day 12: Rain Risk | **Complete** | **Complete** |
-| 13  | -------------- | -------- | -------- |
+| 13  | Shuttle Search | **Complete** | **Complete** |
 | 14  | -------------- | -------- | -------- |
 | 15  | -------------- | -------- | -------- |
 | 16  | -------------- | -------- | -------- |
