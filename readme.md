@@ -1,10 +1,12 @@
-# Advent of Code - 2020
-[LINK](https://adventofcode.com/)
----
-## My progress:
+<h1><p align="center">Advent of Code - 2020</p></h1>
 
+<p align="center"><img src="./logo.jpg" alt="logo"></p>
+
+<h2><p align="center">My progress:</p></h2>
+
+<div style="text-align: center">
 | Day | Name of Puzzle | Part One | Part Two |
-| --- | -------------- | -------- | -------- |
+| :---: | :--------------: | :--------: | :--------: |
 | 01  | Report Repair  | <img src="./star.png" alt="star" width="30" height="30"> | <img src="./star.png" alt="star" width="30" height="30"> |
 | 02  | Password Philosophy | <img src="./star.png" alt="star" width="30" height="30"> | <img src="./star.png" alt="star" width="30" height="30"> |
 | 03  | Toboggan Trajectory | <img src="./star.png" alt="star" width="30" height="30"> | <img src="./star.png" alt="star" width="30" height="30"> |
@@ -30,3 +32,4 @@
 | 23  | -------------- | -------- | -------- |
 | 24  | -------------- | -------- | -------- |
 | 25  | -------------- | -------- | -------- |
+</div>
