@@ -5,19 +5,19 @@
 
 | Day | Name of Puzzle | Part One | Part Two |
 | --- | -------------- | -------- | -------- |
-| 01  | Report Repair  | **Complete** | **Complete** |
-| 02  | Password Philosophy | **Complete** | **Complete** |
-| 03  | Toboggan Trajectory | **Complete** | **Complete** |
-| 04  | Passport Processing | **Complete** | **Complete** |
-| 05  | Binary Boarding | **Complete** | **Complete** |
-| 06  | Custom Customs | **Complete** | **Complete** |
-| 07  | Handy Haversacks | **Complete** | **Complete** |
-| 08  | Handheld Halting | **Complete** | **Complete** |
-| 09  | Encoding Error  | **Complete** | **Complete** |
-| 10  | Adapter Array | **Complete** | **Complete** |
-| 11  | Seating System | **Complete** | **Complete** |
-| 12  | Day 12: Rain Risk | **Complete** | **Complete** |
-| 13  | Shuttle Search | **Complete** | **Complete** |
+| 01  | Report Repair  | ![star](/star.png) | ![star](/star.png) |
+| 02  | Password Philosophy | ![star](/star.png) | ![star](/star.png) |
+| 03  | Toboggan Trajectory | ![star](/star.png) | ![star](/star.png) |
+| 04  | Passport Processing | ![star](/star.png) | ![star](/star.png) |
+| 05  | Binary Boarding | ![star](/star.png) | ![star](/star.png) |
+| 06  | Custom Customs | ![star](/star.png) | ![star](/star.png) |
+| 07  | Handy Haversacks | ![star](/star.png) | ![star](/star.png) |
+| 08  | Handheld Halting | ![star](/star.png) | ![star](/star.png) |
+| 09  | Encoding Error  | ![star](/star.png) | ![star](/star.png) |
+| 10  | Adapter Array | ![star](/star.png) | ![star](/star.png) |
+| 11  | Seating System | ![star](/star.png) | ![star](/star.png) |
+| 12  | Day 12: Rain Risk | ![star](/star.png) | ![star](/star.png) |
+| 13  | Shuttle Search | ![star](/star.png) | ![star](/star.png) |
 | 14  | -------------- | -------- | -------- |
 | 15  | -------------- | -------- | -------- |
 | 16  | -------------- | -------- | -------- |
