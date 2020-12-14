@@ -19,7 +19,7 @@
 | 11    | Seating System      | <img src="./star.png" alt="star" width="30" height="30">  | <img src="./star.png" alt="star" width="30" height="30"> |
 | 12    | Day 12: Rain Risk   | <img src="./star.png" alt="star" width="30" height="30">  | <img src="./star.png" alt="star" width="30" height="30"> |
 | 13    | Shuttle Search      | <img src="./star.png" alt="star" width="30" height="30">  | <img src="./star.png" alt="star" width="30" height="30"> |
-| 14    | --------------      | --------                                                  | -------- |
+| 14    | Docking Data        | <img src="./star.png" alt="star" width="30" height="30">  | <img src="./star.png" alt="star" width="30" height="30"> |
 | 15    | --------------      | --------                                                  | -------- |
 | 16    | --------------      | --------                                                  | -------- |
 | 17    | --------------      | --------                                                  | -------- |
