@@ -23,7 +23,7 @@
 | 15    | Rambunctious Recitation       | <img src="./star.png" alt="star" width="30" height="30">  | <img src="./star.png" alt="star" width="30" height="30"> |
 | 16    | Ticket Translation            | <img src="./star.png" alt="star" width="30" height="30">  | <img src="./star.png" alt="star" width="30" height="30"> |
 | 17    | Conway Cubes                  | <img src="./star.png" alt="star" width="30" height="30">  | <img src="./star.png" alt="star" width="30" height="30"> |
-| 18    | --------------                | --------                                                  | -------- |
+| 18    | Operation Order               | <img src="./star.png" alt="star" width="30" height="30">  | <img src="./star.png" alt="star" width="30" height="30"> |
 | 19    | --------------                | --------                                                  | -------- |
 | 20    | --------------                | --------                                                  | -------- |
 | 21    | --------------                | --------                                                  | -------- |
