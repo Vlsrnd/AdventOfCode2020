@@ -19,8 +19,8 @@ const rules = inputDataStr
 const createRegexp = (rules, ruleIndex, isPartTwo) => {
   let rule = rules[ruleIndex];
   if (isPartTwo) {
-    if (ruleIndex === 8) return '(' + createRegexp(rules, 42, true) + ')+';
-    if (ruleIndex === 11) return '(' + createRegexp(rules, 42, true) + '){n}(' + createRegexp(rules, 31, true) + '){n}';
+    if (ruleIndex === 8) return `(${createRegexp(rules, 42, true)})+`;
+    if (ruleIndex === 11) return `(${createRegexp(rules, 42, true)}){n}(${createRegexp(rules, 31, true)}){n}`;
   }
   let reg = rule.reduce((reg, prop) => {
     reg += '|';
@@ -30,8 +30,8 @@ const createRegexp = (rules, ruleIndex, isPartTwo) => {
     })
     return reg;
   }, '').slice(1);
-  if (reg.includes('|')) reg = '(' + reg + ')';
-  if (ruleIndex === 0) reg = '^' + reg + '$';
+  if (reg.includes('|')) reg = `(${reg})`;
+  if (ruleIndex === 0) reg = `^${reg}$`;
   return reg;
 };
 
