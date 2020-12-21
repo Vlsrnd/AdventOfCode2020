@@ -26,7 +26,7 @@
 | 18    | Operation Order               | <img src="./star.png" alt="star" width="30" height="30">  | <img src="./star.png" alt="star" width="30" height="30"> |
 | 19    | Monster Messages              | <img src="./star.png" alt="star" width="30" height="30">  | <img src="./star.png" alt="star" width="30" height="30"> |
 | 20    | Jurassic Jigsaw               | <img src="./star.png" alt="star" width="30" height="30">  | :( |
-| 21    | --------------                | --------                                                  | -------- |
+| 21    | Allergen Assessment           | <img src="./star.png" alt="star" width="30" height="30">  | <img src="./star.png" alt="star" width="30" height="30"> |
 | 22    | --------------                | --------                                                  | -------- |
 | 23    | --------------                | --------                                                  | -------- |
 | 24    | --------------                | --------                                                  | -------- |
