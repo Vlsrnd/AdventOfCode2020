@@ -28,6 +28,6 @@
 | 20    | Jurassic Jigsaw               | <img src="./star.png" alt="star" width="30" height="30">  | :( |
 | 21    | Allergen Assessment           | <img src="./star.png" alt="star" width="30" height="30">  | <img src="./star.png" alt="star" width="30" height="30"> |
 | 22    | Crab Combat                   | <img src="./star.png" alt="star" width="30" height="30">  | <img src="./star.png" alt="star" width="30" height="30"> |
-| 23    | --------------                | --------                                                  | -------- |
+| 23    | Crab Cups                     | <img src="./star.png" alt="star" width="30" height="30">  | <img src="./star.png" alt="star" width="30" height="30"> |
 | 24    | --------------                | --------                                                  | -------- |
 | 25    | --------------                | --------                                                  | -------- |
