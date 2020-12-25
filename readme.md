@@ -30,4 +30,4 @@
 | 22    | Crab Combat                   | <img src="./star.png" alt="star" width="30" height="30">  | <img src="./star.png" alt="star" width="30" height="30"> |
 | 23    | Crab Cups                     | <img src="./star.png" alt="star" width="30" height="30">  | <img src="./star.png" alt="star" width="30" height="30"> |
 | 24    | --------------                | --------                                                  | -------- |
-| 25    | --------------                | --------                                                  | -------- |
+| 25    | Combo Breaker                 | <img src="./star.png" alt="star" width="30" height="30">  | -------- |
