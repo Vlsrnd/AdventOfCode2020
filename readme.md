@@ -25,9 +25,9 @@
 | 17    | Conway Cubes                  | <img src="./star.png" alt="star" width="30" height="30">  | <img src="./star.png" alt="star" width="30" height="30"> |
 | 18    | Operation Order               | <img src="./star.png" alt="star" width="30" height="30">  | <img src="./star.png" alt="star" width="30" height="30"> |
 | 19    | Monster Messages              | <img src="./star.png" alt="star" width="30" height="30">  | <img src="./star.png" alt="star" width="30" height="30"> |
-| 20    | Jurassic Jigsaw               | <img src="./star.png" alt="star" width="30" height="30">  | :( |
+| 20    | Jurassic Jigsaw               | <img src="./star.png" alt="star" width="30" height="30">  | <img src="./star.png" alt="star" width="30" height="30"> |
 | 21    | Allergen Assessment           | <img src="./star.png" alt="star" width="30" height="30">  | <img src="./star.png" alt="star" width="30" height="30"> |
 | 22    | Crab Combat                   | <img src="./star.png" alt="star" width="30" height="30">  | <img src="./star.png" alt="star" width="30" height="30"> |
 | 23    | Crab Cups                     | <img src="./star.png" alt="star" width="30" height="30">  | <img src="./star.png" alt="star" width="30" height="30"> |
 | 24    | Lobby Layout                  | <img src="./star.png" alt="star" width="30" height="30">  | <img src="./star.png" alt="star" width="30" height="30"> |
-| 25    | Combo Breaker                 | <img src="./star.png" alt="star" width="30" height="30">  | -------- |
+| 25    | Combo Breaker                 | <img src="./star.png" alt="star" width="30" height="30">  | <img src="./star.png" alt="star" width="30" height="30"> |
